@@ -1,0 +1,1 @@
+{script src="design/themes/blue_theme/js/actions.js"}

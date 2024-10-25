@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>blue_theme_init</id>
+    <name>Инициализация темы Blue Theme</name>
+    <description>Модуль инициализации Blue Theme для CS-Cart и Multi-Vendor, потому что в нем всё работает как-то странно, и документация очень странная.</description>
+    <status>active</status>
+    <default_language>ru</default_language>
+</addon>
